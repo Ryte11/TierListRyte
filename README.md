@@ -1,4 +1,4 @@
-# 🌟 Modern Tier List Maker
+# 🌟 Modern Tier List Maker RYTE11
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -85,10 +85,6 @@ https://rytetierlist.netlify.app
 3. 💾 Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. 📤 Push al branch (`git push origin feature/AmazingFeature`)
 5. 🔃 Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
 ---
 
