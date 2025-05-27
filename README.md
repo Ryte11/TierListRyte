@@ -37,7 +37,7 @@
 
 ## 🎯 Demo
 
-![Tier List Preview]([https://via.placeholder.com/800x400/0a0a0a/ffffff?text=🌟+Modern+Tier+List+Maker](https://rytetierlist.netlify.app))
+https://rytetierlist.netlify.app
 
 
 ## 💡 Uso
@@ -95,5 +95,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 <div align="center">
   <b>⭐ Si te gusta este proyecto, ¡dale una estrella! ⭐</b>
   <br><br>
-  Hecho con ❤️ por <a href="https://github.com/tu-usuario">Tu Nombre</a>
+  Hecho con ❤️ por <a href="[https://github.com/tu-usuario](https://github.com/Ryte11?tab=repositories)">ryte11</a>
 </div>
