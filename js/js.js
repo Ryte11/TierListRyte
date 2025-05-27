@@ -1,3 +1,4 @@
+// code make by @Ryte11
 const $ = el => document.querySelector(el)
         const $$ = el => document.querySelectorAll(el)
 
